@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+
+# --- Virtual environments & package managers ---
+.venv/
+venv/
+env/
+
+# --- Test & coverage ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# --- Editors / OS ---
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# --- Secrets / environment ---
+.env
+.env.*
+!.env.example
+
+# --- Experiment runtime artifacts (optional local) ---
+# results/ is intentionally tracked via results/.gitkeep so that experiment
+# output has a stable landing place. Individual run artifacts may be ignored:
+# results/**/run_artifacts/

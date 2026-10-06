@@ -1,0 +1,10 @@
+{"id": "q001", "question": "What is the capital city of France?", "gold_answer": "Paris", "source_url": "https://en.wikipedia.org/wiki/France", "domain": "geography"}
+{"id": "q002", "question": "What is the chemical formula of water?", "gold_answer": "H2O", "source_url": "https://en.wikipedia.org/wiki/Water", "domain": "chemistry"}
+{"id": "q003", "question": "What is the largest planet in the solar system?", "gold_answer": "Jupiter", "source_url": "https://en.wikipedia.org/wiki/Jupiter", "domain": "astronomy"}
+{"id": "q004", "question": "Who wrote the novel Pride and Prejudice?", "gold_answer": "Jane Austen", "source_url": "https://en.wikipedia.org/wiki/Jane_Austen", "domain": "literature"}
+{"id": "q005", "question": "In what year did the first crewed Moon landing occur?", "gold_answer": "1969", "source_url": "https://en.wikipedia.org/wiki/Moon_landing", "domain": "space"}
+{"id": "q006", "question": "Who is widely credited with inventing the telephone?", "gold_answer": "Alexander Graham Bell", "source_url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell", "domain": "technology"}
+{"id": "q007", "question": "What is the smallest prime number?", "gold_answer": "2", "source_url": "https://en.wikipedia.org/wiki/Prime_number", "domain": "mathematics"}
+{"id": "q008", "question": "What is the currency of Japan?", "gold_answer": "Japanese Yen", "source_url": "https://en.wikipedia.org/wiki/Japanese_yen", "domain": "economics"}
+{"id": "q009", "question": "In which country is the Great Pyramid of Giza located?", "gold_answer": "Egypt", "source_url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza", "domain": "history"}
+{"id": "q010", "question": "In what year did World War II end?", "gold_answer": "1945", "source_url": "https://en.wikipedia.org/wiki/World_War_II", "domain": "history"}

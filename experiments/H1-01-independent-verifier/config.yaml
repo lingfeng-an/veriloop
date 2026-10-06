@@ -1,0 +1,22 @@
+# H1-01 — Independent Verifier Minimal Experiment
+# ---------------------------------------------------------------------------
+# Default configuration: fully offline, deterministic mock. No real API, no
+# API key required. There is intentionally NO gold_answer injection switch in
+# this file — the verifier must never be given a gold answer.
+
+experiment: H1-01-independent-verifier
+
+# Mock mode is the only supported mode in this MVP.
+mock_llm: true
+
+# Development/demo data only. NOT the formal frozen set.
+demo_data: data/demo_questions.jsonl
+
+# Where per-run artifacts land.
+results_dir: results/H1-01
+
+# Prompt templates (documentation for a future real-model mode).
+prompts_dir: experiments/H1-01-independent-verifier/prompts
+
+run_metadata:
+  code_commit: none
